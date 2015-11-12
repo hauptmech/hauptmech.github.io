@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am an engineer.  I dream, I create, and occasionally I have an idea that I want to voice publically. Most of the content here is either something I hope others are interested in or something I found useful and hope others can use as well.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
