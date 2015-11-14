@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Android Studio 1.4.1, Android NDK r10, gradle-experimental
