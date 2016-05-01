@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: GDB Pretty Printers in Python for  Lua
